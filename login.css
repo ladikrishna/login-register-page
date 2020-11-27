@@ -1,0 +1,15 @@
+@media only screen and (max-width:970px){
+
+    .nav-bar {
+        width: 100px;
+        position: absolute;
+        left: 10px;
+        top: 80px; 
+    }
+    .webpage{
+    
+        position: absolute;;
+        left: -170px;
+        
+    }
+}
